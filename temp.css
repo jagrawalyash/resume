@@ -1,0 +1,21 @@
+body{
+	height: auto;
+	width: 100%;
+}
+
+#one{width: 80%; height: 110px; border: dotted;}
+#one_one{}
+#one_two{}
+
+#two{}
+#two_one{}
+#two_two_one{}
+#two_two_two{}
+
+#three{}
+#three_one{}
+#three_two{}
+
+#four{}
+#four_one{}
+#four_two{}

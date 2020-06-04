@@ -1,0 +1,40 @@
+body{
+	font-family: cursive; 
+	background-image:url("./background_image.png");
+	background-size: cover;
+	background-attachment: fixed;  
+	background-repeat: no-repeat;
+}
+
+#heading{background-color: skyblue; height: 100px; width: 100%;
+	  text-align: center; padding-top:2%;
+      border:double; font-size:40px;margin-left:0%; margin-right:0%;
+      font-weight: 600; padding-bottom: 2%; 
+       }
+
+#summary{ width: 80%; height: 200px; margin-left: 10%; margin-right: 10%; margin-top: 5%; border:ridge ; border-radius: 25px; }
+#summary_head{text-align: center; background-color: #d3d3d3; float: left; margin: 2%; height:80%; width: 20%;border:dotted;  border-radius: 25px;}
+#summary_desc{margin: 2%; text-align: justify;}
+
+#skills{ width: 80%; height: 200px; margin-left: 10%; margin-right: 10%; margin-top: 5%; border: ridge;border-radius: 25px;}
+#skills_head{text-align: center; background-color: #d3d3d3; float: left; margin: 2%; height: 80%; width: 20%; border:dotted;border-radius: 25px;}
+#skills_desc{float: left;  margin: 2%;width: 40%;}
+#skills_rating{}
+
+
+#experience{ width: 80%; height: 200px; margin-left: 10%; margin-right: 10%; margin-top: 5%; border: ridge;border-radius: 25px;}
+#experience_head{text-align: center; background-color: #d3d3d3; float: left; height: 80%; width: 20%; margin: 2%;border:dotted;border-radius: 25px;}
+#experience_desc{ margin: 2%;}
+
+#technology{ width: 80%; height: 200px; margin-left: 10%; margin-right: 10%; margin-top: 5%; border: ridge;border-radius: 25px;}
+#technology_head{text-align: center; background-color: #d3d3d3; float: left; height: 80%; width: 20%; margin: 2%;border:dotted;border-radius: 25px;}
+#technology_desc{ margin: 2%;}
+
+
+#education{width: 80%; height: 200px; margin-left: 10%; margin-right: 10%; margin-top: 5%; border:ridge;border-radius: 25px;}
+#education_head{text-align: center; background-color: #d3d3d3; float: left; height: 80%; width: 20%; margin: 2%;border:dotted;border-radius: 25px;}
+#education_desc{ margin: 2%;}
+
+#projects{width: 80%; height: 200px; margin-left: 10%; margin-right: 10%; margin-top: 5%; border:ridge;border-radius: 25px;}
+#projects_head{text-align: center; background-color: #d3d3d3; float: left; height: 80%; width: 20%; margin: 2%;border:dotted;border-radius: 25px;}
+#projects_desc{ margin: 2%;}
